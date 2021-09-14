@@ -80,8 +80,7 @@
    max-height: 50px;
   }
   .header__logo p {
-    font-size: 10px;
-    right: -25px;
+    display: none;
   }
   .subtitle_width,
   .title_width {
