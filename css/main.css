@@ -27,7 +27,7 @@
 }
 
 body {
-  font-family: "Muller";
+  font-family: "Muller" sans-serif;
   color: var(--main-text-color);
 }
 
