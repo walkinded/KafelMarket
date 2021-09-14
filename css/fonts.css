@@ -18,8 +18,8 @@
   src: local('Muller Medium'), local('MullerMedium'),
       /* url('MullerMedium.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerMedium.woff2') format('woff2'), */
-      url('MullerMedium.woff') format('woff');
-      /* url('MullerMedium.ttf') format('truetype'); */
+      url('MullerMedium.woff') format('woff'),
+      url('MullerMedium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
@@ -32,8 +32,8 @@
   src: local('Muller Regular'), local('MullerRegular'),
       /* url('MullerRegular.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerRegular.woff2') format('woff2'), */
-      url('MullerRegular.woff') format('woff');
-      /* url('MullerRegular.ttf') format('truetype'); */
+      url('MullerRegular.woff') format('woff'),
+      url('MullerRegular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -45,8 +45,8 @@
   src: local('Muller Hairline'), local('MullerHairline'),
       /* url('MullerHairline.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerHairline.woff2') format('woff2'), */
-      url('MullerHairline.woff') format('woff');
-      /* url('MullerHairline.ttf') format('truetype'); */
+      url('MullerHairline.woff') format('woff'),
+      url('MullerHairline.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
@@ -58,8 +58,8 @@
   src: local('Muller Heavy'), local('MullerHeavy'),
       /* url('MullerHeavy.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerHeavy.woff2') format('woff2'), */
-      url('MullerHeavy.woff') format('woff');
-      /* url('MullerHeavy.ttf') format('truetype'); */
+      url('MullerHeavy.woff') format('woff'),
+      url('MullerHeavy.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
@@ -71,8 +71,8 @@
   src: local('Muller Thin'), local('MullerThin'),
       /* url('MullerThin.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerThin.woff2') format('woff2'), */
-      url('MullerThin.woff') format('woff');
-      /* url('MullerThin.ttf') format('truetype'); */
+      url('MullerThin.woff') format('woff'),
+      url('MullerThin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
@@ -84,8 +84,8 @@
   src: local('Muller Light'), local('MullerLight'),
       /* url('MullerLight.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerLight.woff2') format('woff2'), */
-      url('MullerLight.woff') format('woff');
-      /* url('MullerLight.ttf') format('truetype'); */
+      url('MullerLight.woff') format('woff'),
+      url('MullerLight.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
@@ -97,8 +97,8 @@
   src: local('Muller Black'), local('MullerBlack'),
       /* url('MullerBlack.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerBlack.woff2') format('woff2'), */
-      url('MullerBlack.woff') format('woff');
-      /* url('MullerBlack.ttf') format('truetype'); */
+      url('MullerBlack.woff') format('woff'),
+      url('MullerBlack.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
@@ -110,8 +110,8 @@
   src: local('Muller Bold'), local('MullerBold'),
       /* url('MullerBold.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerBold.woff2') format('woff2'), */
-      url('MullerBold.woff') format('woff');
-      /* url('MullerBold.ttf') format('truetype'); */
+      url('MullerBold.woff') format('woff'),
+      url('MullerBold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
@@ -123,8 +123,8 @@
   src: local('Muller ExtraBold'), local('MullerExtraBold'),
       /* url('MullerExtraBold.eot?#iefix') format('embedded-opentype'), */
       /* url('MullerExtraBold.woff2') format('woff2'), */
-      url('MullerExtraBold.woff') format('woff');
-      /* url('MullerExtraBold.ttf') format('truetype'); */
+      url('MullerExtraBold.woff') format('woff'),
+      url('MullerExtraBold.ttf') format('truetype');
   font-weight: 800;
   font-style: normal;
 }
