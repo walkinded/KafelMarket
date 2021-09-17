@@ -291,7 +291,7 @@ header {
 }
 
 .main-page__card:hover::before {
-  transform: rotate(45deg)  scale(1.01);
+  transform: rotate(45deg);
   left: -10px;
 }
 
